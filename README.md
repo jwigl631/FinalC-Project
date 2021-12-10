@@ -1,1 +1,8 @@
-# FinalC-Project
+# FinalC#Project
+The program is a simple account creation/login with a webscraper attached to it, the webscraper will have a set list of sites to choose to scrape from and there will be a search bar to allow the user to input data that they want from the specific site of their choosing
+The scraper will have account history of everything that was searched in the search bar and can be deleted to the user's liking
+There is also a produce report button that will import all scraped data from a website into a text file into its own folder (located in the same file as the program)
+It has an exit button that can allow the user to close the program anytime they want and a back button that will log them out of their account and take them back to the login/sign up screen.
+This program uses sqlite databases to ensure that the program runs correctly and efficiently
+It also uses 3 different extension packages
+Made in C#
