@@ -9,3 +9,4 @@ This program uses sqlite databases to ensure that the program runs correctly and
 Uses 3 different extension packages.
 Made in C#.
 ![Project Flowchart!](https://raw.githubusercontent.com/jwigl631/FinalC-Project/main/FinalProjectFlowchart.PNG)
+![Project Mockup!](https://github.com/jwigl631/FinalC-Project/blob/main/FinalProjectMockup.PNG)
