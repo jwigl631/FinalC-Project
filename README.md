@@ -8,3 +8,4 @@ It has an exit button that can allow the user to close the program anytime they 
 This program uses sqlite databases to ensure that the program runs correctly and efficiently.
 Uses 3 different extension packages.
 Made in C#.
+![Project Flowchart!](https://raw.githubusercontent.com/jwigl631/FinalC-Project/main/FinalProjectFlowchart.PNG)
